@@ -12,7 +12,7 @@ Systemet inkluderar även funktionalitet för att hantera kampanjerbjudanden.
 ## Installation:
 ### 1. Klona repot:<br>
 ```
-git clone: 
+git clone: https://github.com/sandranymark/Airbean-API-Sandra.git
 ```
 
 
